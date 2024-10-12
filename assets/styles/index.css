@@ -90,3 +90,7 @@ html {
 }
 
 .twbb-nav-menu ul {display: none;}
+
+.twbb-pu-bar-twbb-pu-bottom-bar {
+    display: none;
+}
